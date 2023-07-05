@@ -52,7 +52,10 @@ function App() {
 
   return (
     //JSX - Javascript syntax Extension
-    //wrap them with  JSX fragment for more than one element 
+    //wrap them with  JSX fragment for more than one element
+    
+    //wrap them with jsx fragment for more than one element
+    
 
     //class to classname
     //html for to htmlFor 
